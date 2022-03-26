@@ -1,7 +1,7 @@
 {
-  "name": "Wizard-Ser",
+  "name": "IIkshwaku Pandey",
   "version": "1.1.2",
-  "description": "WhatsApp Bot",
+  "description": "Ikshwaku Pandey",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajmal-Achu/Wizard-Ser.git"
+    "url": "git+https://github.com/ikshwakupandey953/Nandhutty-V3.git"
   },
   "keywords": [
     "whatsapp-bot"
@@ -22,9 +22,9 @@
   "author": "Ajmal-Achu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ajmal-Achu/Wizard-Ser/issues"
+    "url": "https://github.com/Ajmal-Achu/Nandhutty-V3/issues"
   },
-  "homepage": "https://github.com/Ajmal-Achu/Wizard-Ser",
+  "homepage": "https://github.com/ikshwakupandey953/Nandhutty-V3",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
